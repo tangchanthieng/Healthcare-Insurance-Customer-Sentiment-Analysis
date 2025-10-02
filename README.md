@@ -24,6 +24,9 @@ The scope of this project encompasses the application of AI and Natural Language
 - Generation of a comprehensive report with actionable insights and recommendations for healthcare insurance firms and public policy makers.
 - The project will be considered successful if it can provide a clear understanding of public opinion, enabling stakeholders to make data-driven decisions.
 
+  <img width="667" height="342" alt="image" src="https://github.com/user-attachments/assets/f03e1ed8-359d-45b9-bc9f-596b22e00d49" />
+
+
 ## 4. User stories and Acceptance criteria
 User Story 1: Marketing Manager
 
