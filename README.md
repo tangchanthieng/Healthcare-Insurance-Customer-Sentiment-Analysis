@@ -24,8 +24,7 @@ The scope of this project encompasses the application of AI and Natural Language
 - Generation of a comprehensive report with actionable insights and recommendations for healthcare insurance firms and public policy makers.
 - The project will be considered successful if it can provide a clear understanding of public opinion, enabling stakeholders to make data-driven decisions.
 
-  <img width="667" height="342" alt="image" src="https://github.com/user-attachments/assets/f03e1ed8-359d-45b9-bc9f-596b22e00d49" />
-
+<img width="667" height="342" alt="image" src="https://github.com/user-attachments/assets/f03e1ed8-359d-45b9-bc9f-596b22e00d49" />
 
 ## 4. User stories and Acceptance criteria
 User Story 1: Marketing Manager
@@ -37,6 +36,9 @@ Acceptance Criteria:
 - The sentiment analysis report should clearly segment sentiment data by insurance provider (Medibank, Medicare, Bupa, HBF).
 - The report should identify the key topics and concerns associated with positive and negative sentiment for each provider.
 - The insights should be presented in a clear and concise manner, with visualizations to support the findings.
+
+<img width="1005" height="647" alt="image" src="https://github.com/user-attachments/assets/01f71415-ecde-4d1f-9b76-897da03da9b4" />
+
 
 User Story 2: Public Policy Analyst
 
@@ -54,7 +56,6 @@ Acceptance Criteria:
 
 ## 6. Feedback and Contributions  
 This project was created as part of my **data analytics portfolio** to demonstrate skills in data visualization, business insights, and storytelling with Power BI.  
-
 - Feedback, suggestions, and pull requests are welcome.  
 - If you’d like to collaborate on extending this project, feel free to open an issue or reach out.
 
