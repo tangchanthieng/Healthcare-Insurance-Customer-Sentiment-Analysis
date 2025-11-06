@@ -1,6 +1,6 @@
 # Healthcare-Insurance-Customer-Sentiment-Analysis
 
-*Tags: NLP, Sentiment, API, Topic Modelling, Visualisation*
+*Tags: NLP, Agile, API, Topic Modelling, Visualisation*
 
 ## 1. Project Overview
 
@@ -15,6 +15,7 @@ The primary objective of this project is to analyze social media conversations t
 
 ## 3. Requirements
 
+- Agile Planning: Project management and detailed planning of Agile works. Sprints and timeline are carefully setup for team members. Feedbacks and contributions are frequently updated. 
 - Data Collection and Pre-processing: Crawl and clean social media (X) data to prepare it for analysis. This includes removing null values, unnecessary columns, duplicates, and noise from the text data.
 - Sentiment Analysis: Determine the overall public sentiment (positive, negative, neutral) towards the Australian healthcare system and specific insurance providers.
 - Topic Modeling: Identify the main topics and themes of discussion within the social media conversations.
