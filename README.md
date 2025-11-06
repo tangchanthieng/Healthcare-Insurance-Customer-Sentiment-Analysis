@@ -12,7 +12,6 @@ The primary objective of this project is to analyze social media conversations t
 
 <img width="667" height="342" alt="image" src="https://github.com/user-attachments/assets/f03e1ed8-359d-45b9-bc9f-596b22e00d49" />
 
-
 ## 3. Requirements
 
 - Agile Planning: Project management and detailed planning of Agile works. Sprints and timeline are carefully setup for team members. Feedbacks and contributions are frequently updated. 
@@ -21,9 +20,6 @@ The primary objective of this project is to analyze social media conversations t
 - Topic Modeling: Identify the main topics and themes of discussion within the social media conversations.
 - Temporal Analysis: Analyze how sentiment and topics of discussion have evolved over time.
 - Actionable Insights: Generate actionable insights and recommendations for marketing strategies and public policy based on the analysis.
-
-<img width="1005" height="647" alt="image" src="https://github.com/user-attachments/assets/01f71415-ecde-4d1f-9b76-897da03da9b4" />
-
 
 ## 4. Flowchart
 
